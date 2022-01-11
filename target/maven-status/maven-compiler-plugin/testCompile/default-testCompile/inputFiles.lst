@@ -1,0 +1,12 @@
+/Users/chang/IdeaProjects/Parallel-Web-Crawler/src/test/java/com/udacity/webcrawler/profiler/FakeClock.java
+/Users/chang/IdeaProjects/Parallel-Web-Crawler/src/test/java/com/udacity/webcrawler/NoOpProfiler.java
+/Users/chang/IdeaProjects/Parallel-Web-Crawler/src/test/java/com/udacity/webcrawler/json/CrawlResultWriterTest.java
+/Users/chang/IdeaProjects/Parallel-Web-Crawler/src/test/java/com/udacity/webcrawler/WebCrawlerTest.java
+/Users/chang/IdeaProjects/Parallel-Web-Crawler/src/test/java/com/udacity/webcrawler/SequentialWebCrawlerTest.java
+/Users/chang/IdeaProjects/Parallel-Web-Crawler/src/test/java/com/udacity/webcrawler/testing/CloseableStringWriter.java
+/Users/chang/IdeaProjects/Parallel-Web-Crawler/src/test/java/com/udacity/webcrawler/parser/PageParserImplTest.java
+/Users/chang/IdeaProjects/Parallel-Web-Crawler/src/test/java/com/udacity/webcrawler/json/ConfigurationLoaderTest.java
+/Users/chang/IdeaProjects/Parallel-Web-Crawler/src/test/java/com/udacity/webcrawler/profiler/ProfilerImplTest.java
+/Users/chang/IdeaProjects/Parallel-Web-Crawler/src/test/java/com/udacity/webcrawler/WordCountsTest.java
+/Users/chang/IdeaProjects/Parallel-Web-Crawler/src/test/java/com/udacity/webcrawler/ParallelWebCrawlerTest.java
+/Users/chang/IdeaProjects/Parallel-Web-Crawler/src/test/java/com/udacity/webcrawler/NoOpProfilerModule.java
