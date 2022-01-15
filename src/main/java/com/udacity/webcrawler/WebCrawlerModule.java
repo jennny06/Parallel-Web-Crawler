@@ -31,7 +31,8 @@ import java.util.regex.Pattern;
  *           .getInstance(WebCrawler.class);
  * }</pre>
  */
-public final class WebCrawlerModule extends AbstractModule {
+public final class
+WebCrawlerModule extends AbstractModule {
 
   private final CrawlerConfiguration config;
 
