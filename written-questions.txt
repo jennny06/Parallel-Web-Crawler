@@ -11,7 +11,7 @@ Q1. Run the web crawler using the configurations located at src/main/config/writ
 
     Why did the parser take more time when run with ParallelWebCrawler?
 
-    Because threads may have to wait until other threads finish updating results, which will add overhead time.
+    Because threads may have to wait until other threads finish updating results, which will add overhead time. Profiler measures the total time spent in the parse() method across all threads. When run with the ParallelWebCrawler, the parse() method ran more times, so profileData.txt shows the total parse() time to be greater.
 
 
 Q2. Your manager ran your crawler on her old personal computer, using the configurations from Q1, and she notices that
